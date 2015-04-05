@@ -1,0 +1,5 @@
+inc x
+inc z
+dec z
+zero z 1 else 5
+stop

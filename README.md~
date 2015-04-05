@@ -16,7 +16,3 @@ To run:
       test.3cm is a test file
 
 One may use an option "-trace" to trace the execution.
-
-use an option "-parity" to execute the parity analysis,
-use an option "-interval" to execute the interval analysis
-

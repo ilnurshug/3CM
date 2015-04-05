@@ -1,0 +1,7 @@
+inc y
+inc x
+inc x
+inc z
+dec z
+zero z 1 else 7
+stop
